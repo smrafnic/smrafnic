@@ -78,7 +78,7 @@ I’m open to:
 
 ## 📫 Connect With Me
 
-- 🌐 Website: **https://github.com/smrafnic**
+- 🌐 Website: **https://github.com/smrafnic/smrafnic**
 - 💼 LinkedIn: *https://www.linkedin.com/in/mkhan000/*
 - 📧 Email: *smrafnic@gmail.com*
 
